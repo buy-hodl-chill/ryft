@@ -4,10 +4,11 @@
 # Ryft: Solana Shadow Trading Bot 🚀
 
 <!-- DOWNLOAD_BUTTONS_START -->
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-DMG-blue?style=for-the-badge&logo=apple)](https://github.com/buy-hodl-chill/Ryft/releases/download/v1.3.2/Ryft_1.3.2_aarch64.dmg)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-DMG-blue?style=for-the-badge&logo=apple)](https://github.com/buy-hodl-chill/Ryft/releases/download/v1.3.3/Ryft_1.3.3_aarch64.dmg)
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/buy-hodl-chill/Ryft/releases/download/v1.3.2/Ryft_1.3.2_x64-setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/buy-hodl-chill/Ryft/releases/download/v1.3.3/Ryft_1.3.3_x64-setup.exe)
 <!-- DOWNLOAD_BUTTONS_END -->
+
 
 
 
